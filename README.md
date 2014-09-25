@@ -15,7 +15,7 @@ Sharkfly in a node.js module that is meant to work with International Country co
 Version
 ----
 
-0.0.7
+0.0.8
 
 
 Installation
