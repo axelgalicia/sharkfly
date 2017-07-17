@@ -1,10 +1,11 @@
 Sharkfly
 ========
 
-![alt tag] (https://github.com/axelgalicia/sharkfly/blob/master/sharkfly.png "Sharkfly Logo")
+![Alt text](sharkfly.png)
+
+
 
 Manage of International Codes
-
 
 
 Sharkfly in a node.js module that is meant to work with International Country codes. (e.g. MX ---> Mexico)
@@ -17,7 +18,7 @@ Sharkfly in a node.js module that is meant to work with International Country co
 Version
 ----
 
-0.0.9
+0.0.11
 
 
 Installation
