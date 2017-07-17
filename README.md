@@ -5,7 +5,7 @@ Sharkfly
 
 
 
-Manage of International Codes
+**Managing International Codes**
 
 
 Sharkfly in a node.js module that is meant to work with International Country codes. (e.g. MX ---> Mexico)
